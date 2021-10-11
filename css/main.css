@@ -10,3 +10,29 @@ header {
     background-color: #1abc9c;
     color: white;
 }
+
+/* Main */
+
+.portfolio_1 {
+    background-color: #ba4b63;
+}
+
+.portfolio_2 {
+    background-color: #1ea4b6;
+}
+
+.portfolio_3 {
+    background-color: #140f0f;
+}
+
+.portfolio_4 {
+background-color: #1c83c1;
+}
+
+.portfolio_5 {
+    background-color: #0e38b5;
+}
+
+.portfolio_6 {
+    background-color: #ccb2a3;
+}
