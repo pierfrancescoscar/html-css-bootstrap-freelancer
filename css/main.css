@@ -41,25 +41,60 @@
     background-color: #ba4b63;
 }
 
+.portfolio_1 img {
+    width: 100%;
+}
+
 .portfolio_2 {
     background-color: #1ea4b6;
+}
+
+.portfolio_2 img {
+    width: 100%;
 }
 
 .portfolio_3 {
     background-color: #140f0f;
 }
 
+.portfolio_3 img {
+    width: 100%;
+}
+
 .portfolio_4 {
     background-color: #1c83c1;
+}
+
+.portfolio_4 img {
+    width: 100%;
 }
 
 .portfolio_5 {
     background-color: #0e38b5;
 }
 
+.portfolio_5 img {
+    width: 100%;
+}
+
 .portfolio_6 {
     background-color: #ccb2a3;
 }
+
+.portfolio_6 img {
+    width: 100%;
+}
+
+.maincontent_separator {
+    height: 3px;
+    width: 50px;
+    background: black;
+}
+
+.maincontent_separator_star {
+    font-size: 21px;
+}
+
 
 /* Footer */
 
