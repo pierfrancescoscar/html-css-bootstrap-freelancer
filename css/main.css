@@ -21,6 +21,20 @@
     color: white;
 }
 
+.hero_avatar {
+    width: 50%;
+}
+
+.hero_separator {
+    height: 3px;
+    width: 50px;
+    background: white;
+}
+
+.hero_separator_star {
+    font-size: 21px;
+}
+
 /* Main */
 
 .portfolio_1 {
