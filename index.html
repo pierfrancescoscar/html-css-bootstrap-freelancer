@@ -136,18 +136,39 @@
 
     <section class="container">
         <div class="row p-3">
-            <div class="col-sm-12 text-center">
-                Title
+            <div class="col-sm-12 text-center mt-3">
+                <h4 class="text-uppercase">Contact Me</h4>
             </div>
-            <div class="col-sm-12 text-center">
-                Separator
+
+            <div class="col-sm-12 text-center d-flex justify-content-center align-items-center mt-3">
+                <div class="cform_separator"></div>
+                <i class="cform_separator_star px-2 fas fa-star"></i>
+                <div class="cform_separator"></div>
             </div>
-            <div class="col-sm-12 text-center">
-                Contact form
-            </div>
-            <div class="col-sm-12 text-center">
-                Button
-            </div>
+
+            <div class="col-sm-6 mx-auto mt-3">
+                <form>
+                    <div class="form-group">
+                      <label>Name</label>
+
+                      <input type="name" class="form-control" id="name" aria-describedby="name">
+
+                    </div>
+                    <label>Email Address</label>
+
+                    <input type="email" class="form-control" id="email" aria-describedby="email">
+
+                    <label>Phone Number</label>
+
+                    <input type="phone" class="form-control" id="phone" aria-describedby="phone">
+
+                    <label for="textarea">Message</label>
+
+                    <textarea id="textarea" class="form-control">
+                    </textarea> 
+                </form>
+
+                <button type="button" class="btn btn-success mt-3 mb-3 cf_sendbutton">Send</button>
         </div>
     </section>
 

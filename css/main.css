@@ -117,9 +117,40 @@
     background-color: transparent;
 }
 
+/* Contact Form */
 
+.cform_separator {
+    height: 3px;
+    width: 50px;
+    background: black;
+}
 
+.cform_separator_star {
+    font-size: 21px;
+    color: black;
+}
 
+#name,
+#email,
+#phone,
+#textarea {
+    border: 0;
+    border-radius: 0;
+    border-bottom: 1px solid grey;
+}
+
+.cf_sendbutton {
+    background: #76c2a6;
+    border: 0;
+}
+
+.cf_sendbutton:hover {
+    background: #76c2a6;
+}
+
+.cf_sendbutton:focus {
+    background: #76c2a6;
+}
 
 /* Footer */
 
