@@ -176,11 +176,15 @@ footer {
 }
 
 footer h6 a {
-    color: #557a83;
+    color: #76c2a6;
     text-decoration: none;
 }
 
 footer h6 a:hover {
-    color: #557a83;
+    color: #76c2a6;
+}
+
+.copyright {
+    font-size: 11px;
 }
 
