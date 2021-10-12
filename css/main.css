@@ -95,6 +95,31 @@
     font-size: 21px;
 }
 
+/* About Us */
+
+.aboutus_separator {
+    height: 3px;
+    width: 50px;
+    background: white;
+}
+
+.aboutus_separator_star {
+    font-size: 21px;
+    color: white;
+}
+
+.download_button .btn-outline-secondary {
+    color: white;
+    border-color: white;
+}
+
+.download_button .btn-outline-secondary:hover {
+    background-color: transparent;
+}
+
+
+
+
 
 /* Footer */
 
