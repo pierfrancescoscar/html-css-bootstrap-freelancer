@@ -1,8 +1,18 @@
 /* Header */
-header {
+
+.header_navbar {
     background-color: #2c3e50;
+}
+
+.header_navbar .navbar-light .navbar-brand {
     color: white;
 }
+
+.header_navbar .navbar-light .navbar-toggler {
+    color: white;
+    border-color: white;
+}
+
 
 /* Hero */
 
